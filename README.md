@@ -1,1 +1,1 @@
-This is CI testing repo.
+This is Github Action CI testing repo.
